@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppMemory</string>
+    <string name="button_jugar">JUGAR</string>
+    <string name="button_salir">SALIR</string>
+    <string name="btnReiniciarJuego">Reiniciar</string>
+    <string name="btnSalirJuego">Salir</string>
+    
+</resources>
